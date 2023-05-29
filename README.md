@@ -4,7 +4,7 @@
        💌 Who am I? 💌
     </h1>
     <h2 align="center">
-        Hello there! I'm Hassem a current backend dev.
+        Hello there! I am Hassem a current backend dev.
       <br> Former Sys&Net admin and Cibersecurity student.</br>
         Focused mainly into 🐍Python and Django🐍.
     </h2>
@@ -20,8 +20,8 @@
        🎉 What's next? 🎉
     </h1>
     <h2 align="center">
-        Since at the moment I am focusing into my developer career while finishing my grade as well, I am aiming to get myself into the AI world to be into the vanguard of the next tech revolution.
-        <br>In the other hand, I will continue into software development and cibersecurity.</br>
+        Since at the moment I am focusing into my developer career while finishing my grade, I am aiming to get myself into the AI world, following the vanguard of the next tech revolution.
+        <br>On the other hand, I will continue in software development and cibersecurity.</br>
     </h2>
     <h1 align="center">
       📶 Contact 📶
