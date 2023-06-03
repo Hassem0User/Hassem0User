@@ -12,7 +12,7 @@
        🔧 Skills 🔧
     </h1>
     <h2 align="center">
-        Object Oriented Programming.
+        Object Oriented Programming // Unittesting // PostgreSQL // Git
         <br>Sys and Net admin studies.</br>
         Cibersecurity studies.
     </h2>
