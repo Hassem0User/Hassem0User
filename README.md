@@ -21,7 +21,7 @@
     </h1>
     <h2 align="center">
         Since at the moment I am focusing into my developer career while finishing my grade, I am aiming to get myself into the AI world, following the vanguard of the next tech revolution.
-        <br>On the other hand, I will continue in software development and cibersecurity.</br>
+        <br>On the other hand, I will continue in software development and cibersecurity as well.</br>
     </h2>
     <h1 align="center">
       📶 Contact 📶
