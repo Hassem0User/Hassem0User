@@ -4,7 +4,7 @@
        💌 Who am I? 💌
     </h1>
     <h2 align="center">
-        Hello there! I am Hassem a current backend dev.
+        Hello there! I am Hassem, a current backend dev.
       <br> Former Sys&Net admin and Cibersecurity student.</br>
         Focused mainly into 🐍Python and Django🐍.
     </h2>
