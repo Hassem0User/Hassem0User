@@ -12,7 +12,7 @@
        🔧 Skills 🔧
     </h1>
     <h2 align="center">
-        Object Oriented Programming // Unittesting // PostgreSQL // Git
+        Object Oriented Programming // Unittesting // PostgreSQL // Git 
         <br>Sys and Net admin studies. Linux and Windows</br>
         Cibersecurity studies.
     </h2>
@@ -27,7 +27,7 @@
       📶 Contact 📶
 </h1>
     <h3 align="left">
-      When launch to public
+      <b>My LinkedIn: <b>https://www.linkedin.com/in/hassem-al-abdah-echegaray-a79b29180/
   </h3>
       <h1 align="center">
 And ...
