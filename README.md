@@ -12,7 +12,7 @@
        🔧 Skills 🔧
     </h1>
     <h2 align="center">
-        Object Oriented Programming // Unittesting // PostgreSQL // Git 
+        Object Oriented Programming // Unittesting // PostgreSQL // Git // Docker
         <br>Sys and Net admin studies. Linux and Windows</br>
         Cibersecurity studies.
     </h2>
@@ -20,14 +20,15 @@
        🎉 What's next? 🎉
     </h1>
     <h2 align="center">
-        Since at the moment I am focusing into my developer career while finishing my grade, I am aiming to get myself into the AI world, following the vanguard of the next tech revolution.
-        <br>On the other hand, I will continue in software development and cibersecurity as well.</br>
+        I plan to continue my career in software development, currently working with Python and C, and in the future, I aim to expand my expertise to include GOLang. 
+        Hack The Box enthusiast.
+        <br>Additionally, I'm committed to furthering my skills in software development and cybersecurity.</br>
     </h2>
     <h1 align="center">
       📶 Contact 📶
 </h1>
     <h3 align="left">
-      <b>My LinkedIn: <b>https://www.linkedin.com/in/hassem-al-abdah-echegaray-a79b29180/
+      <b>My LinkedIn: <b>https://www.linkedin.com/in/hassem001
   </h3>
       <h1 align="center">
 And ...
