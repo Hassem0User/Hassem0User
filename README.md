@@ -28,7 +28,7 @@
       📶 Contact 📶
 </h1>
     <h3 align="left">
-      <b>My LinkedIn: <b>https://www.linkedin.com/in/hassem001
+      <b>My LinkedIn: <b>https://www.linkedin.com/in/hassem001/
   </h3>
       <h1 align="center">
 And ...
