@@ -20,7 +20,7 @@
        🎉 What's next? 🎉
     </h1>
     <h2 align="center">
-        I plan to continue my career in software development, currently working with Python and C, and in the future, I aim to expand my expertise to include GOLang. 
+        I plan to continue my career in software development, currently working with Python. 
         Hack The Box enthusiast.
         <br>Additionally, I'm committed to furthering my skills in software development and cybersecurity.</br>
     </h2>
