@@ -12,7 +12,7 @@
        🔧 Skills 🔧
     </h1>
     <h2 align="center">
-        Object Oriented Programming // Unittesting // Pytest // PostgreSQL // Git // Docker // NGinx // FastAPI
+        Object Oriented Programming // Unittesting // Pytest // PostgreSQL // Git // Docker // Nginx // FastAPI
         <br>Sys and Net admin studies. Linux and Windows</br>
         Cibersecurity studies.
     </h2>
