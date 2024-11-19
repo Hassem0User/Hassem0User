@@ -6,13 +6,13 @@
     <h2 align="center">
         Hello there! I am Hassem, a current backend dev.
       <br> Former Sys&Net admin and Cibersecurity student.</br>
-        Focused mainly into 🐍Python and Django🐍.
+        Focused mainly into 🐍Python🐍.
     </h2>
     <h1 align="center"> 
        🔧 Skills 🔧
     </h1>
     <h2 align="center">
-        Object Oriented Programming // Unittesting // PostgreSQL // Git // Docker
+        Object Oriented Programming // Unittesting // Pytest // PostgreSQL // Git // Docker // NGinx // FastAPI
         <br>Sys and Net admin studies. Linux and Windows</br>
         Cibersecurity studies.
     </h2>
